@@ -1,0 +1,40 @@
+{
+  "name": "keyboard",
+  "version": "1.0.0",
+  "description": "a keyboard",
+  "scripts": {
+    "dev": "webpack --env=dev --profile --colors --watch",
+    "dev:server": "webpack-dev-server --env=dev",
+    "build:dev": "webpack --env=dev --progress --profile --colors",
+    "build:prod": "webpack --env=prod --progress --profile",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tristachentw/keyboard.git"
+  },
+  "author": "Trista Chen",
+  "bugs": {
+    "url": "https://github.com/tristachentw/keyboard/issues"
+  },
+  "homepage": "https://github.com/tristachentw/keyboard#readme",
+  "dependencies": {
+    "babel-core": "^6.25.0",
+    "babel-eslint": "^7.2.3",
+    "babel-loader": "^7.1.1",
+    "css-loader": "^0.28.4",
+    "eslint": "^4.1.1",
+    "eslint-loader": "^1.8.0",
+    "extract-text-webpack-plugin": "^2.1.2",
+    "file-loader": "^0.11.2",
+    "html-webpack-harddisk-plugin": "^0.1.0",
+    "html-webpack-plugin": "^2.29.0",
+    "nib": "^1.1.2",
+    "style-loader": "^0.18.2",
+    "stylus-loader": "^3.0.1",
+    "webpack": "^3.0.0",
+    "webpack-dev-server": "^2.5.0",
+    "webpack-merge": "^4.1.0"
+  }
+}

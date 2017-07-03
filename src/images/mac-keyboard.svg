@@ -1,0 +1,402 @@
+
+<svg width="890px" height="355px" viewBox="0 0 890 355" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 43.1 (39012) - http://www.bohemiancoding.com/sketch -->
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="15" y="15" width="52" height="25" rx="5"></rect>
+        <rect id="path-2" x="77" y="15" width="52" height="25" rx="5"></rect>
+        <rect id="path-3" x="139" y="15" width="52" height="25" rx="5"></rect>
+        <rect id="path-4" x="201" y="15" width="52" height="25" rx="5"></rect>
+        <rect id="path-5" x="264" y="15" width="52" height="25" rx="5"></rect>
+        <rect id="path-6" x="326" y="15" width="52" height="25" rx="5"></rect>
+        <rect id="path-7" x="388" y="15" width="52" height="25" rx="5"></rect>
+        <rect id="path-8" x="450" y="15" width="52" height="25" rx="5"></rect>
+        <rect id="path-9" x="512" y="15" width="52" height="25" rx="5"></rect>
+        <rect id="path-10" x="574" y="15" width="52" height="25" rx="5"></rect>
+        <rect id="path-11" x="636" y="15" width="52" height="25" rx="5"></rect>
+        <rect id="path-12" x="699" y="15" width="52" height="25" rx="5"></rect>
+        <rect id="path-13" x="761" y="15" width="52" height="25" rx="5"></rect>
+        <rect id="path-14" x="823" y="15" width="52" height="25" rx="5"></rect>
+        <rect id="path-15" x="15" y="50" width="50" height="50" rx="5"></rect>
+        <rect id="path-16" x="75" y="50" width="50" height="50" rx="5"></rect>
+        <rect id="path-17" x="135" y="50" width="50" height="50" rx="5"></rect>
+        <rect id="path-18" x="195" y="50" width="50" height="50" rx="5"></rect>
+        <rect id="path-19" x="255" y="50" width="50" height="50" rx="5"></rect>
+        <rect id="path-20" x="315" y="50" width="50" height="50" rx="5"></rect>
+        <rect id="path-21" x="375" y="50" width="50" height="50" rx="5"></rect>
+        <rect id="path-22" x="435" y="50" width="50" height="50" rx="5"></rect>
+        <rect id="path-23" x="495" y="50" width="50" height="50" rx="5"></rect>
+        <rect id="path-24" x="555" y="50" width="50" height="50" rx="5"></rect>
+        <rect id="path-25" x="615" y="50" width="50" height="50" rx="5"></rect>
+        <rect id="path-26" x="675" y="50" width="50" height="50" rx="5"></rect>
+        <rect id="path-27" x="735" y="50" width="50" height="50" rx="5"></rect>
+        <rect id="path-28" x="795" y="50" width="80" height="50" rx="5"></rect>
+        <rect id="path-29" x="15" y="110" width="80" height="50" rx="5"></rect>
+        <rect id="path-30" x="105" y="110" width="50" height="50" rx="5"></rect>
+        <rect id="path-31" x="165" y="110" width="50" height="50" rx="5"></rect>
+        <rect id="path-32" x="225" y="110" width="50" height="50" rx="5"></rect>
+        <rect id="path-33" x="285" y="110" width="50" height="50" rx="5"></rect>
+        <rect id="path-34" x="345" y="110" width="50" height="50" rx="5"></rect>
+        <rect id="path-35" x="405" y="110" width="50" height="50" rx="5"></rect>
+        <rect id="path-36" x="465" y="110" width="50" height="50" rx="5"></rect>
+        <rect id="path-37" x="525" y="110" width="50" height="50" rx="5"></rect>
+        <rect id="path-38" x="585" y="110" width="50" height="50" rx="5"></rect>
+        <rect id="path-39" x="645" y="110" width="50" height="50" rx="5"></rect>
+        <rect id="path-40" x="705" y="110" width="50" height="50" rx="5"></rect>
+        <rect id="path-41" x="765" y="110" width="50" height="50" rx="5"></rect>
+        <rect id="path-42" x="825" y="110" width="50" height="50" rx="5"></rect>
+        <rect id="path-43" x="15" y="170" width="95" height="50" rx="5"></rect>
+        <rect id="path-44" x="120" y="170" width="50" height="50" rx="5"></rect>
+        <rect id="path-45" x="180" y="170" width="50" height="50" rx="5"></rect>
+        <rect id="path-46" x="240" y="170" width="50" height="50" rx="5"></rect>
+        <rect id="path-47" x="300" y="170" width="50" height="50" rx="5"></rect>
+        <rect id="path-48" x="360" y="170" width="50" height="50" rx="5"></rect>
+        <rect id="path-49" x="420" y="170" width="50" height="50" rx="5"></rect>
+        <rect id="path-50" x="480" y="170" width="50" height="50" rx="5"></rect>
+        <rect id="path-51" x="540" y="170" width="50" height="50" rx="5"></rect>
+        <rect id="path-52" x="600" y="170" width="50" height="50" rx="5"></rect>
+        <rect id="path-53" x="660" y="170" width="50" height="50" rx="5"></rect>
+        <rect id="path-54" x="720" y="170" width="50" height="50" rx="5"></rect>
+        <rect id="path-55" x="780" y="170" width="95" height="50" rx="5"></rect>
+        <rect id="path-56" x="15" y="230" width="125" height="50" rx="5"></rect>
+        <rect id="path-57" x="150" y="230" width="50" height="50" rx="5"></rect>
+        <rect id="path-58" x="210" y="230" width="50" height="50" rx="5"></rect>
+        <rect id="path-59" x="270" y="230" width="50" height="50" rx="5"></rect>
+        <rect id="path-60" x="330" y="230" width="50" height="50" rx="5"></rect>
+        <rect id="path-61" x="390" y="230" width="50" height="50" rx="5"></rect>
+        <rect id="path-62" x="450" y="230" width="50" height="50" rx="5"></rect>
+        <rect id="path-63" x="510" y="230" width="50" height="50" rx="5"></rect>
+        <rect id="path-64" x="570" y="230" width="50" height="50" rx="5"></rect>
+        <rect id="path-65" x="630" y="230" width="50" height="50" rx="5"></rect>
+        <rect id="path-66" x="690" y="230" width="50" height="50" rx="5"></rect>
+        <rect id="path-67" x="750" y="230" width="125" height="50" rx="5"></rect>
+        <rect id="path-68" x="15" y="290" width="50" height="50" rx="5"></rect>
+        <rect id="path-69" x="75" y="290" width="50" height="50" rx="5"></rect>
+        <rect id="path-70" x="135" y="290" width="50" height="50" rx="5"></rect>
+        <rect id="path-71" x="195" y="290" width="65" height="50" rx="5"></rect>
+        <rect id="path-72" x="270" y="290" width="290" height="50" rx="5"></rect>
+        <rect id="path-73" x="570" y="290" width="65" height="50" rx="5"></rect>
+        <rect id="path-74" x="645" y="290" width="50" height="50" rx="5"></rect>
+        <rect id="path-75" x="705" y="315" width="50" height="25" rx="5"></rect>
+        <rect id="path-76" x="765" y="290" width="50" height="25" rx="5"></rect>
+        <rect id="path-77" x="765" y="315" width="50" height="25" rx="5"></rect>
+        <rect id="path-78" x="825" y="315" width="50" height="25" rx="5"></rect>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="mac-keyboard">
+            <g id="Escape">
+                <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-1"></use>
+                <rect stroke="#4A4A4A" stroke-width="2" x="16" y="16" width="50" height="23" rx="5"></rect>
+            </g>
+            <g id="key-f1">
+                <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-2"></use>
+                <rect stroke="#4A4A4A" stroke-width="2" x="78" y="16" width="50" height="23" rx="5"></rect>
+            </g>
+            <g id="key-f2">
+                <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-3"></use>
+                <rect stroke="#4A4A4A" stroke-width="2" x="140" y="16" width="50" height="23" rx="5"></rect>
+            </g>
+            <g id="key-f3">
+                <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-4"></use>
+                <rect stroke="#4A4A4A" stroke-width="2" x="202" y="16" width="50" height="23" rx="5"></rect>
+            </g>
+            <g id="key-f4">
+                <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-5"></use>
+                <rect stroke="#4A4A4A" stroke-width="2" x="265" y="16" width="50" height="23" rx="5"></rect>
+            </g>
+            <g id="key-f5">
+                <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-6"></use>
+                <rect stroke="#4A4A4A" stroke-width="2" x="327" y="16" width="50" height="23" rx="5"></rect>
+            </g>
+            <g id="key-f6">
+                <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-7"></use>
+                <rect stroke="#4A4A4A" stroke-width="2" x="389" y="16" width="50" height="23" rx="5"></rect>
+            </g>
+            <g id="key-f7">
+                <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-8"></use>
+                <rect stroke="#4A4A4A" stroke-width="2" x="451" y="16" width="50" height="23" rx="5"></rect>
+            </g>
+            <g id="key-f8">
+                <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-9"></use>
+                <rect stroke="#4A4A4A" stroke-width="2" x="513" y="16" width="50" height="23" rx="5"></rect>
+            </g>
+            <g id="key-f9">
+                <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-10"></use>
+                <rect stroke="#4A4A4A" stroke-width="2" x="575" y="16" width="50" height="23" rx="5"></rect>
+            </g>
+            <g id="key-f10">
+                <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-11"></use>
+                <rect stroke="#4A4A4A" stroke-width="2" x="637" y="16" width="50" height="23" rx="5"></rect>
+            </g>
+            <g id="key-f11">
+                <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-12"></use>
+                <rect stroke="#4A4A4A" stroke-width="2" x="700" y="16" width="50" height="23" rx="5"></rect>
+            </g>
+            <g id="key-f12">
+                <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-13"></use>
+                <rect stroke="#4A4A4A" stroke-width="2" x="762" y="16" width="50" height="23" rx="5"></rect>
+            </g>
+            <g id="key-power">
+                <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-14"></use>
+                <rect stroke="#4A4A4A" stroke-width="2" x="824" y="16" width="50" height="23" rx="5"></rect>
+            </g>
+            <g id="Backquote">
+                <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-15"></use>
+                <rect stroke="#4A4A4A" stroke-width="2" x="16" y="51" width="48" height="48" rx="5"></rect>
+            </g>
+            <g id="Digit1">
+                <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-16"></use>
+                <rect stroke="#4A4A4A" stroke-width="2" x="76" y="51" width="48" height="48" rx="5"></rect>
+            </g>
+            <g id="Digit2">
+                <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-17"></use>
+                <rect stroke="#4A4A4A" stroke-width="2" x="136" y="51" width="48" height="48" rx="5"></rect>
+            </g>
+            <g id="Digit3">
+                <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-18"></use>
+                <rect stroke="#4A4A4A" stroke-width="2" x="196" y="51" width="48" height="48" rx="5"></rect>
+            </g>
+            <g id="Digit4">
+                <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-19"></use>
+                <rect stroke="#4A4A4A" stroke-width="2" x="256" y="51" width="48" height="48" rx="5"></rect>
+            </g>
+            <g id="Digit5">
+                <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-20"></use>
+                <rect stroke="#4A4A4A" stroke-width="2" x="316" y="51" width="48" height="48" rx="5"></rect>
+            </g>
+            <g id="Digit6">
+                <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-21"></use>
+                <rect stroke="#4A4A4A" stroke-width="2" x="376" y="51" width="48" height="48" rx="5"></rect>
+            </g>
+            <g id="Digit7">
+                <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-22"></use>
+                <rect stroke="#4A4A4A" stroke-width="2" x="436" y="51" width="48" height="48" rx="5"></rect>
+            </g>
+            <g id="Digit8">
+                <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-23"></use>
+                <rect stroke="#4A4A4A" stroke-width="2" x="496" y="51" width="48" height="48" rx="5"></rect>
+            </g>
+            <g id="Digit9">
+                <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-24"></use>
+                <rect stroke="#4A4A4A" stroke-width="2" x="556" y="51" width="48" height="48" rx="5"></rect>
+            </g>
+            <g id="Digit0">
+                <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-25"></use>
+                <rect stroke="#4A4A4A" stroke-width="2" x="616" y="51" width="48" height="48" rx="5"></rect>
+            </g>
+            <g id="Minus">
+                <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-26"></use>
+                <rect stroke="#4A4A4A" stroke-width="2" x="676" y="51" width="48" height="48" rx="5"></rect>
+            </g>
+            <g id="Equal">
+                <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-27"></use>
+                <rect stroke="#4A4A4A" stroke-width="2" x="736" y="51" width="48" height="48" rx="5"></rect>
+            </g>
+            <g id="Backspace">
+                <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-28"></use>
+                <rect stroke="#4A4A4A" stroke-width="2" x="796" y="51" width="78" height="48" rx="5"></rect>
+            </g>
+            <g id="Tab">
+                <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-29"></use>
+                <rect stroke="#4A4A4A" stroke-width="2" x="16" y="111" width="78" height="48" rx="5"></rect>
+            </g>
+            <g id="KeyQ">
+                <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-30"></use>
+                <rect stroke="#4A4A4A" stroke-width="2" x="106" y="111" width="48" height="48" rx="5"></rect>
+            </g>
+            <g id="KeyW">
+                <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-31"></use>
+                <rect stroke="#4A4A4A" stroke-width="2" x="166" y="111" width="48" height="48" rx="5"></rect>
+            </g>
+            <g id="KeyE">
+                <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-32"></use>
+                <rect stroke="#4A4A4A" stroke-width="2" x="226" y="111" width="48" height="48" rx="5"></rect>
+            </g>
+            <g id="KeyR">
+                <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-33"></use>
+                <rect stroke="#4A4A4A" stroke-width="2" x="286" y="111" width="48" height="48" rx="5"></rect>
+            </g>
+            <g id="KeyT">
+                <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-34"></use>
+                <rect stroke="#4A4A4A" stroke-width="2" x="346" y="111" width="48" height="48" rx="5"></rect>
+            </g>
+            <g id="KeyY">
+                <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-35"></use>
+                <rect stroke="#4A4A4A" stroke-width="2" x="406" y="111" width="48" height="48" rx="5"></rect>
+            </g>
+            <g id="KeyU">
+                <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-36"></use>
+                <rect stroke="#4A4A4A" stroke-width="2" x="466" y="111" width="48" height="48" rx="5"></rect>
+            </g>
+            <g id="KeyI">
+                <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-37"></use>
+                <rect stroke="#4A4A4A" stroke-width="2" x="526" y="111" width="48" height="48" rx="5"></rect>
+            </g>
+            <g id="KeyO">
+                <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-38"></use>
+                <rect stroke="#4A4A4A" stroke-width="2" x="586" y="111" width="48" height="48" rx="5"></rect>
+            </g>
+            <g id="KeyP">
+                <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-39"></use>
+                <rect stroke="#4A4A4A" stroke-width="2" x="646" y="111" width="48" height="48" rx="5"></rect>
+            </g>
+            <g id="BracketLeft">
+                <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-40"></use>
+                <rect stroke="#4A4A4A" stroke-width="2" x="706" y="111" width="48" height="48" rx="5"></rect>
+            </g>
+            <g id="BracketRight">
+                <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-41"></use>
+                <rect stroke="#4A4A4A" stroke-width="2" x="766" y="111" width="48" height="48" rx="5"></rect>
+            </g>
+            <g id="Backslash">
+                <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-42"></use>
+                <rect stroke="#4A4A4A" stroke-width="2" x="826" y="111" width="48" height="48" rx="5"></rect>
+            </g>
+            <g id="CapsLock">
+                <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-43"></use>
+                <rect stroke="#4A4A4A" stroke-width="2" x="16" y="171" width="93" height="48" rx="5"></rect>
+            </g>
+            <g id="KeyA">
+                <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-44"></use>
+                <rect stroke="#4A4A4A" stroke-width="2" x="121" y="171" width="48" height="48" rx="5"></rect>
+            </g>
+            <g id="KeyS">
+                <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-45"></use>
+                <rect stroke="#4A4A4A" stroke-width="2" x="181" y="171" width="48" height="48" rx="5"></rect>
+            </g>
+            <g id="KeyD">
+                <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-46"></use>
+                <rect stroke="#4A4A4A" stroke-width="2" x="241" y="171" width="48" height="48" rx="5"></rect>
+            </g>
+            <g id="KeyF">
+                <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-47"></use>
+                <rect stroke="#4A4A4A" stroke-width="2" x="301" y="171" width="48" height="48" rx="5"></rect>
+            </g>
+            <g id="KeyG">
+                <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-48"></use>
+                <rect stroke="#4A4A4A" stroke-width="2" x="361" y="171" width="48" height="48" rx="5"></rect>
+            </g>
+            <g id="KeyH">
+                <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-49"></use>
+                <rect stroke="#4A4A4A" stroke-width="2" x="421" y="171" width="48" height="48" rx="5"></rect>
+            </g>
+            <g id="KeyJ">
+                <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-50"></use>
+                <rect stroke="#4A4A4A" stroke-width="2" x="481" y="171" width="48" height="48" rx="5"></rect>
+            </g>
+            <g id="KeyK">
+                <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-51"></use>
+                <rect stroke="#4A4A4A" stroke-width="2" x="541" y="171" width="48" height="48" rx="5"></rect>
+            </g>
+            <g id="KeyL">
+                <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-52"></use>
+                <rect stroke="#4A4A4A" stroke-width="2" x="601" y="171" width="48" height="48" rx="5"></rect>
+            </g>
+            <g id="Semicolon">
+                <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-53"></use>
+                <rect stroke="#4A4A4A" stroke-width="2" x="661" y="171" width="48" height="48" rx="5"></rect>
+            </g>
+            <g id="Quote">
+                <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-54"></use>
+                <rect stroke="#4A4A4A" stroke-width="2" x="721" y="171" width="48" height="48" rx="5"></rect>
+            </g>
+            <g id="Enter">
+                <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-55"></use>
+                <rect stroke="#4A4A4A" stroke-width="2" x="781" y="171" width="93" height="48" rx="5"></rect>
+            </g>
+            <g id="ShiftLeft">
+                <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-56"></use>
+                <rect stroke="#4A4A4A" stroke-width="2" x="16" y="231" width="123" height="48" rx="5"></rect>
+            </g>
+            <g id="KeyZ">
+                <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-57"></use>
+                <rect stroke="#4A4A4A" stroke-width="2" x="151" y="231" width="48" height="48" rx="5"></rect>
+            </g>
+            <g id="KeyX">
+                <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-58"></use>
+                <rect stroke="#4A4A4A" stroke-width="2" x="211" y="231" width="48" height="48" rx="5"></rect>
+            </g>
+            <g id="KeyC">
+                <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-59"></use>
+                <rect stroke="#4A4A4A" stroke-width="2" x="271" y="231" width="48" height="48" rx="5"></rect>
+            </g>
+            <g id="KeyV">
+                <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-60"></use>
+                <rect stroke="#4A4A4A" stroke-width="2" x="331" y="231" width="48" height="48" rx="5"></rect>
+            </g>
+            <g id="KeyB">
+                <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-61"></use>
+                <rect stroke="#4A4A4A" stroke-width="2" x="391" y="231" width="48" height="48" rx="5"></rect>
+            </g>
+            <g id="KeyN">
+                <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-62"></use>
+                <rect stroke="#4A4A4A" stroke-width="2" x="451" y="231" width="48" height="48" rx="5"></rect>
+            </g>
+            <g id="KeyM">
+                <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-63"></use>
+                <rect stroke="#4A4A4A" stroke-width="2" x="511" y="231" width="48" height="48" rx="5"></rect>
+            </g>
+            <g id="Comma">
+                <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-64"></use>
+                <rect stroke="#4A4A4A" stroke-width="2" x="571" y="231" width="48" height="48" rx="5"></rect>
+            </g>
+            <g id="Period">
+                <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-65"></use>
+                <rect stroke="#4A4A4A" stroke-width="2" x="631" y="231" width="48" height="48" rx="5"></rect>
+            </g>
+            <g id="Slash">
+                <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-66"></use>
+                <rect stroke="#4A4A4A" stroke-width="2" x="691" y="231" width="48" height="48" rx="5"></rect>
+            </g>
+            <g id="ShiftRight">
+                <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-67"></use>
+                <rect stroke="#4A4A4A" stroke-width="2" x="751" y="231" width="123" height="48" rx="5"></rect>
+            </g>
+            <g id="key-fn">
+                <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-68"></use>
+                <rect stroke="#4A4A4A" stroke-width="2" x="16" y="291" width="48" height="48" rx="5"></rect>
+            </g>
+            <g id="ControlLeft">
+                <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-69"></use>
+                <rect stroke="#4A4A4A" stroke-width="2" x="76" y="291" width="48" height="48" rx="5"></rect>
+            </g>
+            <g id="AltLeft">
+                <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-70"></use>
+                <rect stroke="#4A4A4A" stroke-width="2" x="136" y="291" width="48" height="48" rx="5"></rect>
+            </g>
+            <g id="MetaLeft">
+                <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-71"></use>
+                <rect stroke="#4A4A4A" stroke-width="2" x="196" y="291" width="63" height="48" rx="5"></rect>
+            </g>
+            <g id="Space">
+                <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-72"></use>
+                <rect stroke="#4A4A4A" stroke-width="2" x="271" y="291" width="288" height="48" rx="5"></rect>
+            </g>
+            <g id="MetaRight">
+                <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-73"></use>
+                <rect stroke="#4A4A4A" stroke-width="2" x="571" y="291" width="63" height="48" rx="5"></rect>
+            </g>
+            <g id="AltRight">
+                <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-74"></use>
+                <rect stroke="#4A4A4A" stroke-width="2" x="646" y="291" width="48" height="48" rx="5"></rect>
+            </g>
+            <g id="ArrowLeft">
+                <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-75"></use>
+                <rect stroke="#4A4A4A" stroke-width="2" x="706" y="316" width="48" height="23" rx="5"></rect>
+            </g>
+            <g id="ArrowUp">
+                <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-76"></use>
+                <rect stroke="#4A4A4A" stroke-width="2" x="766" y="291" width="48" height="23" rx="5"></rect>
+            </g>
+            <g id="ArrowDown">
+                <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-77"></use>
+                <rect stroke="#4A4A4A" stroke-width="2" x="766" y="316" width="48" height="23" rx="5"></rect>
+            </g>
+            <g id="ArrowRight">
+                <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-78"></use>
+                <rect stroke="#4A4A4A" stroke-width="2" x="826" y="316" width="48" height="23" rx="5"></rect>
+            </g>
+            <rect id="key-keyboard" stroke="#4A4A4A" stroke-width="2" x="1" y="1" width="888" height="353" rx="5"></rect>
+        </g>
+    </g>
+</svg>
