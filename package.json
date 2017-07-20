@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "a keyboard",
   "scripts": {
-    "dev": "webpack-dev-server -d --env=dev",
+    "dev": "webpack-dev-server --env=dev",
     "build:dev": "webpack -d --env=dev",
     "build:prod": "webpack -p --env=prod"
   },
